@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1359237916017556",
+    "category": "Robótica",
+    "title": "Ideas que se ponen en movimiento",
+    "desc": "Participación del equipo del colegio en el torneo Sumobot de CENFOTEC.",
+    "poster": "robot.jpg"
+  },
+  {
+    "id": "1244840920516702",
+    "category": "Fútbol",
+    "title": "El equipo también educa",
+    "desc": "Un encuentro amistoso del equipo CEP en Jacó.",
+    "poster": "sport.jpg"
+  },
+  {
+    "id": "2153208032080633",
+    "category": "Ciencias",
+    "title": "La curiosidad nos lleva más lejos",
+    "desc": "El equipo CEP rumbo a la Olimpiada Costarricense de Ciencias Biológicas.",
+    "poster": "nature.jpg"
+  },
+  {
+    "id": "2350811442389245",
+    "category": "Cultura",
+    "title": "El orgullo de ser comunidad",
+    "desc": "La banda del colegio en la celebración del cantonato de Quepos.",
+    "poster": "community.jpg"
+  },
+  {
+    "id": "680827635015298",
+    "category": "Orientación",
+    "title": "Descubrir lo que viene después",
+    "desc": "Una salida a la feria vocacional de la Universidad de Costa Rica.",
+    "poster": "languages.jpg"
+  }
+]
